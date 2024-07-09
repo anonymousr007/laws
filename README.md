@@ -2,11 +2,11 @@
 
 ### Chapter One — The Laws of Life
 
-1. The Law of Cause and Effect
-2. The Law of Belief
-3. The Law of Expectations
-4. The Law of Attraction
-5. The Law of Correspondence
+- [1. The Law of Cause and Effect](https://github.com/anonymousr007/laws/blob/main/chapter_one/README.md)
+- [The Law of Belief]()
+- [The Law of Expectations]()
+- [The Law of Attraction]()
+- [The Law of Correspondence]()
 
 ### Chapter Two — The Laws of Success
 
