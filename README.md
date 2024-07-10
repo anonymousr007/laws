@@ -9,6 +9,14 @@
 - [4. The Law of Attraction]()
 - [5. The Law of Correspondence]()
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 ### Chapter Two — The Laws of Success
 
 6. The Law of Control
