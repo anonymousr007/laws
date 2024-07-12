@@ -6,8 +6,8 @@
 - [1. The Law of Cause and Effect]()
 - [2. The Law of Belief](https://github.com/anonymousr007/laws/blob/main/chapter_one/2.md)
 - [3. The Law of Expectations](https://github.com/anonymousr007/laws/blob/main/chapter_one/3.md)
-- [4. The Law of Attraction]()
-- [5. The Law of Correspondence]()
+- [4. The Law of Attraction](https://github.com/anonymousr007/laws/blob/main/chapter_one/4.md)
+- [5. The Law of Correspondence](https://github.com/anonymousr007/laws/blob/main/chapter_one/5.md)
 
 ### Chapter Two — The Laws of Success
 
